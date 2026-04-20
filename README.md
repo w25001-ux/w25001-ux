@@ -20,4 +20,4 @@
 <h2>小さなプロジェクトのリンク</h2>
 
 ### 仕事のチラシを見ながら、HTML/ CSS を使って、試してみた　小さな
-[http://127.0.0.1:5500/first%20project/index.html](https://w25001-ux.github.io/web-page/)
+[[http://127.0.0.1:5500/first%20project/index.html](https://w25001-ux.github.io/web-page/)](https://w25001-ux.github.io/web-page/)
