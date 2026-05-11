@@ -19,5 +19,4 @@
     Github / VS Code
 
 ### 仕事のチラシを見ながら、HTML/ CSS を使って、試してみた　小さなプロジェクトのリンク
-(https://w25001-ux.github.io/web-site-/)
 https://github.com/w25001-ux/web-site-.git
