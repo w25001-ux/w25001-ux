@@ -20,3 +20,9 @@
 
 ### 仕事のチラシを見ながら、HTML/ CSS を使って、試してみた　小さなプロジェクトのリンク
 https://github.com/w25001-ux/web-site-.git
+
+### java を使って、ソースコードを書いてみた、結果のスクリーンショットです。
+
+### これはソースコードに行くリンクです。
+https://github.com/w25001-ux/java-project.git
+
